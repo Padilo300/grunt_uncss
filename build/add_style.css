@@ -1,0 +1,23 @@
+footer .trust-us-home {
+  margin: 0;
+  background: none; }
+  footer .trust-us-home .trust-us-home-container-content {
+    height: auto !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important; }
+    footer .trust-us-home .trust-us-home-container-content .social-icons li {
+      width: 40px !important;
+      height: 40px !important; }
+
+footer .underfooter__rating a {
+  font-weight: 900;
+  font-size: 15px; }
+
+body {
+  background: #fff; }
+
+.header-contacts .header-contacts-container .header-contacts-container-row > li.phone {
+  padding-left: 0; }
+  @media (max-width: 1100px) {
+    .header-contacts .header-contacts-container .header-contacts-container-row > li.phone {
+      padding-left: 0; } }

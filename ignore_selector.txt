@@ -1,0 +1,21 @@
+возможно нужно игнорировать
+.in
+
+игнорировать
+
+.btn-group
+.bootstrap-select
+.selector 
+.open
+.dropup
+.btn
+.dropdown-toggle
+.btn-default
+.bs-caret
+.dropdown-menu open
+.bs-searchbox
+.dropdown-menu
+.inner
+.selected 
+.hidden
+.left
